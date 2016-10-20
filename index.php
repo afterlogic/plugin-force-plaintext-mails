@@ -1,7 +1,5 @@
 <?php
 
-/* -AFTERLOGIC LICENSE HEADER- */
-
 class_exists('CApi') or die();
 
 class CForcePlaintextMailsPlugin extends AApiPlugin
